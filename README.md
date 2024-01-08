@@ -1,2 +1,3 @@
-# fullstackopen
-Full Stack open -kurssin tehtävien palautusrepositorio.
+# Full Stack Open
+
+Full Stack -tehtäviä varten luotu palautusrepositorio
