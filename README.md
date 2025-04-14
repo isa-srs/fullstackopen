@@ -11,4 +11,5 @@ Full Stack open -kurssin tehtävien palautusrepositorio.
 
 ### Osa 1
 - [1.1-1.5: Kurssitiedot](https://github.com/isa-srs/fullstackopen/tree/main/osa1/kurssitiedot)
-- [1.6-1.10: Unicafe](https://github.com/isa-srs/fullstackopen/tree/main/osa1/unicafe)
+- [1.6-1.11: Unicafe](https://github.com/isa-srs/fullstackopen/tree/main/osa1/unicafe)
+- [1.12-1.: Anekdootit](https://github.com/isa-srs/fullstackopen/tree/main/osa1/anekdootit)
